@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd11fd7-c6f6-41d8-bffb-f2621a5e3606" name="Changes" comment="" />
+    <list default="true" id="1bd11fd7-c6f6-41d8-bffb-f2621a5e3606" name="Changes" comment="INIT">
+      <change afterPath="$PROJECT_DIR$/src/facade/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/AccountValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/BankAccountFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/BankProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/BankType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/FacadeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/KapitalBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/PasaBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/firat/Documents/Projects/Java/design-patterns/src/strategy",
+    "last_opened_file_path": "/home/firat/Documents/Projects/Java/design-patterns",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/strategy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FacadeTest">
     <configuration name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decorator.DecoratorTest" />
       <module name="design-patterns" />
@@ -64,8 +76,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FacadeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facade.FacadeTest" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.StrategyTest" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FacadeTest" />
+        <item itemvalue="Application.StrategyTest" />
         <item itemvalue="Application.DecoratorTest" />
       </list>
     </recent_temporary>
@@ -78,8 +118,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662196824038</updated>
-      <workItem from="1662196825126" duration="1213000" />
+      <workItem from="1662196825126" duration="4293000" />
+      <workItem from="1662207268803" duration="48000" />
+      <workItem from="1662207362895" duration="44000" />
+      <workItem from="1662207470054" duration="97000" />
     </task>
+    <task id="LOCAL-00001" summary="INIT">
+      <created>1662198051999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662198051999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="INIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="INIT" />
   </component>
 </project>
