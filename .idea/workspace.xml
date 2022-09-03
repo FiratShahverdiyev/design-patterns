@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd11fd7-c6f6-41d8-bffb-f2621a5e3606" name="Changes" comment="INIT">
-      <change afterPath="$PROJECT_DIR$/src/facade/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/AccountValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/BankAccountFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/BankProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/BankType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/FacadeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/KapitalBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/PasaBank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,21 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/firat/Documents/Projects/Java/design-patterns",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/firat/Documents/Projects/Java/design-patterns&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/strategy" />
@@ -105,8 +96,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FacadeTest" />
-        <item itemvalue="Application.StrategyTest" />
         <item itemvalue="Application.DecoratorTest" />
+        <item itemvalue="Application.StrategyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +113,9 @@
       <workItem from="1662207268803" duration="48000" />
       <workItem from="1662207362895" duration="44000" />
       <workItem from="1662207470054" duration="97000" />
+      <workItem from="1662207590057" duration="124000" />
+      <workItem from="1662207714923" duration="72000" />
+      <workItem from="1662207788232" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="INIT">
       <created>1662198051999</created>
