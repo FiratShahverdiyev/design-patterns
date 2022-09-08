@@ -1,7 +1,0 @@
-package com.company.strategy;
-
-public interface PaymentStrategy {
-
-    void pay();
-
-}
